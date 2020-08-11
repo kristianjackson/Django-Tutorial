@@ -2,6 +2,7 @@ asgiref==3.2.10
 Django==3.1
 django-polls @ file:///C:/Users/kristian.jackson/Documents/Projects/django/django-polls/dist/django-polls-0.1.tar.gz
 gunicorn==20.0.4
+python-dotenv==0.14.0
 pytz==2020.1
 sqlparse==0.3.1
 yapf==0.30.0
